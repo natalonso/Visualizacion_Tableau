@@ -20,8 +20,8 @@ DIAPOSITIVA 1:
 DIAPOSITIVA 2:
 #####################################################################
 
--EDA general con:
-	-Mapa localizaciones.
+-EDA general con: linking
+	-Mapa localizaciones: zooming, panning.
 	-Series temporales.
 	-Nube de palabras con los motivos.
 -Justificar que para comprobar la calidad de los datos se ha investigado el pico en llamadas a emergencias del 2 de marzo de 2018: enlace a la noticia.
@@ -30,9 +30,12 @@ DIAPOSITIVA 2:
 DIAPOSITIVA 3: TRAFFIC 
 #####################################################################
 
--Filtro por type emer traffic y vemos que sobresale vehicle accidente.
--Decidimos centrarnos en esta emergencia "vehicle accident" y vemos los distritos por orden de número de llamadas.
--Vemos que sobresales el 19401, brevemente mencionamos el distrito (Norristown) y decimos hace un mapa de calor para ver las franjas horarias donde mayor incidencia hay.
+-Filtro por type emer traffic en la diapositiva del EDA y vemos que sobresale vehicle accidente: filtering
+
+-Decidimos centrarnos en esta emergencia "vehicle accident" y vemos los distritos por orden de número de llamadas
+	-
+-Vemos que sobresale el 19401, brevemente mencionamos el distrito (Norristown):
+	-decimos hacer un mapa de calor para ver las franjas horarias donde mayor incidencia hay.
 
 #####################################################################
 DIAPOSITIVA 4: FIRE
