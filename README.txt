@@ -33,13 +33,15 @@ DIAPOSITIVA 3: TRAFFIC
 -Filtro por type emer traffic en la diapositiva del EDA y vemos que sobresale vehicle accidente: filtering
 
 -Decidimos centrarnos en esta emergencia "vehicle accident" y vemos los distritos por orden de número de llamadas
-	-
--Vemos que sobresale el 19401, brevemente mencionamos el distrito (Norristown):
+
+-Vemos que sobresale el 19401, brevemente mencionamos el distrito (Norristown)
 	-decimos hacer un mapa de calor para ver las franjas horarias donde mayor incidencia hay.
 
 #####################################################################
 DIAPOSITIVA 4: FIRE
 #####################################################################
+
+-Filtro por type emer fire
 
 #####################################################################
 DIAPOSITIVA 5: EMS
